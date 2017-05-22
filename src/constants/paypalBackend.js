@@ -1,0 +1,7 @@
+export default {
+    host: 'http://88.198.137.236:9000',
+    NO_ACCOUNT: 'NO_ACCOUNT',
+    CREATED: 'CREATED',
+    INCOMPLETE: 'INCOMPLETE',
+    COMPLETED: 'COMPLETED'
+}
